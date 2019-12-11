@@ -1,0 +1,2 @@
+String in my file 3
+add string in file 3

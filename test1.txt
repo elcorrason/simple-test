@@ -1,0 +1,2 @@
+test string 1
+This is new line in this file
